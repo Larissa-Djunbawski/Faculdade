@@ -1,7 +1,7 @@
 const prompt = require("prompt-sync")();
 
-const aluno = require("./aluno.js");
-const aula = require("./aula.js");
+const aluno = require("./Aluno.js");
+const aula = require("./Aula.js");
 
 const db = [];
 

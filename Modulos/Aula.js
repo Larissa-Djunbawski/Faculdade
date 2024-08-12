@@ -1,8 +1,8 @@
 const prompt = require("prompt-sync")();
 
-const professor = require("./professor.js");
-const materia = require("./materia.js");
-const sala = require("./sala.js");
+const professor = require("./Professor.js");
+const materia = require("./Materia.js");
+const sala = require("./Sala.js");
 
 const db = [];
 

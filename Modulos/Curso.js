@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
 
-const turno = require("./turno.js");
+const turno = require("./Turno.js");
 
 const db = [];
 
